@@ -1,3 +1,6 @@
+**A Internship project by Marko & Marcel**
+
+
 SpotyLarm, a happy morning!
 ============================
 
